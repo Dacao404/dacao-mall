@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dacao-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/mybatis-plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/thread-pool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-common/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-oms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-oms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-pms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-ums/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-mall-ums/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/system-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dacao-system/system-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
